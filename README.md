@@ -8,4 +8,4 @@ it triggered, the supporting evidence, and the analysis.
 
 ## Writeups
 
-- [T1059.001 — PowerShell Encoded Command Execution](T1059.001-PowerShell-Encoded-Command-Detection (1).md)
+- [T1059.001 — PowerShell Encoded Command Execution](T1059.001-PowerShell-Encoded-Command-Detection(1).md)
